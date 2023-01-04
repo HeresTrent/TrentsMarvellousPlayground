@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Trents Xploit Hub", "Serpent")
+local Window = Library.CreateLib("Trents Xploit Hub -- Credits to Trent and flopera", "Serpent")
 
 --MAIN
 
